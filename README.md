@@ -1,3 +1,5 @@
-# info2180-lab2
+# info2180 lab 2
 
-This is Lab 2 for <Ronaldo Willie>
+This is Lab 2 for Ronaldo Willie
+
+##Branching
